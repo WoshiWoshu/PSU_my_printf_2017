@@ -7,7 +7,7 @@ USAGE :
 
 Exemple :
 
-- Create a main.c to test the my_printf(av, ...) functions
+- Create a main.c to test the my_printf(av, ...) functions.
 - Inside main.c for exemple, you can add : 
 
 char str [5];
