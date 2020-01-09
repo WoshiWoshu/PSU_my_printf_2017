@@ -11,8 +11,13 @@ Exemple :
 - Inside main.c for exemple, you can add : 
 
 char str [5];
+
 my_strcpy(str, "toto");
+
 str [1] = 6;
+
 my_printf("%S\n", str);
 
-> ./a.out t\006to
+And then : ./a.out
+
+> t\006to
