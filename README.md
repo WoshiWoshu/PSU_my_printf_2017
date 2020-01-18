@@ -12,6 +12,7 @@ USAGE :
 EXEMPLE :
 
       Create a main.c to test the my_printf(av, ...) function.
+      
       Inside main.c for exemple, you can add : 
 
       char str [5];
@@ -20,5 +21,7 @@ EXEMPLE :
       my_printf("%S\n", str);
 
       
-      And then : ./a.out
+      And then :
+      
+      > ./a.out
       > t\006to
